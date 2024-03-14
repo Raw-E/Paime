@@ -1,0 +1,5 @@
+# These folders are generated when running code locally
+__pycache__/
+
+# Ignoring all files in the config directory
+configuration/* 
